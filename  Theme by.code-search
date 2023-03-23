@@ -1,0 +1,8 @@
+# Query:  Theme by
+# ContextLines: 1
+
+1 result - 1 file
+
+_layouts/default.html:
+  50          {% endif %}
+  52        </footer>
